@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Запуск tx_anti_fraud",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "tx_anti_fraud.main",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}
